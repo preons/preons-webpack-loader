@@ -1,6 +1,6 @@
 {
   "name": "preons-webpack-loader",
-  "version": "0.0.2-canary.a6fb4a0.0",
+  "version": "0.0.2-canary.f59ff6c.0",
   "main": "lib/loader.js",
   "license": "MIT",
   "dependencies": {
