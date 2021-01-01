@@ -3,7 +3,9 @@
   "version": "0.0.2-canary.a6fb4a0.0",
   "main": "lib/loader.js",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "preons": "^0.4.7"
+  },
   "devDependencies": {
     "@auto-it/all-contributors": "^10.5.0",
     "@auto-it/conventional-commits": "^10.5.0",
@@ -24,7 +26,6 @@
   "files": [
     "lib"
   ],
-  "repository": "preons/preons-webpack-loader",
   "author": "Gemma Black <gblackuk@googlemail.com>",
   "auto": {
     "plugins": [
