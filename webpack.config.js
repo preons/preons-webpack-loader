@@ -7,7 +7,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.yaml$/,
+        test: /\.ya?ml$/,
         use: [
           "style-loader",
           "css-loader",

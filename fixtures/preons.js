@@ -1,1 +1,1 @@
-const yaml = require("./preons.yaml");
+require("./preons.yaml");

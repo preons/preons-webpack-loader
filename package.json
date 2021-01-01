@@ -1,7 +1,7 @@
 {
   "name": "preons-webpack-loader",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/loader.js",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.12.10",
